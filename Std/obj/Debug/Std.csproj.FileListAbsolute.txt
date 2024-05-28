@@ -81,3 +81,11 @@ D:\2024\PROJECTS\May Projects\Std\Std\obj\Debug\Std.csproj.CoreCompileInputs.cac
 D:\2024\PROJECTS\May Projects\Std\Std\obj\Debug\Std.csproj.CopyComplete
 D:\2024\PROJECTS\May Projects\Std\Std\obj\Debug\Std.dll
 D:\2024\PROJECTS\May Projects\Std\Std\obj\Debug\Std.pdb
+D:\2024\PROJECTS\May Projects\Std\Std\bin\Microsoft.AspNet.Identity.Core.dll
+D:\2024\PROJECTS\May Projects\Std\Std\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\2024\PROJECTS\May Projects\Std\Std\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\2024\PROJECTS\May Projects\Std\Std\bin\Microsoft.IdentityModel.Logging.dll
+D:\2024\PROJECTS\May Projects\Std\Std\bin\Microsoft.AspNet.Identity.Core.xml
+D:\2024\PROJECTS\May Projects\Std\Std\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\2024\PROJECTS\May Projects\Std\Std\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\2024\PROJECTS\May Projects\Std\Std\bin\Microsoft.IdentityModel.Logging.xml
